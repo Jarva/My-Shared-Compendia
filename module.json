@@ -73,6 +73,14 @@
       "type": "Item"
     },
     {
+      "name": "classfeatures",
+      "system": "dnd5e",
+      "label": "Class Features (shared)",
+      "path": "./packs/classfeatures.db",
+      "module": "my-shared-compendia",
+      "type": "Item"
+    },
+    {
       "name": "feats",
       "system": "dnd5e",
       "label": "Feats (shared)",
